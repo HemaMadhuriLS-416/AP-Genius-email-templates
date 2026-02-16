@@ -1,0 +1,12 @@
+<emailtemplate scriptid="custemailtmpltss_ven_bank_detail_confirmation">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description></description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <mediaitem></mediaitem>
+  <name>TSS Vendor Bank Detail Confirmation template</name>
+  <recordtype>CUSTOM</recordtype>
+  <subject>[clientName-AP Genius]: ACTION REQUIRED - Bank Details Update Request Confirmation.</subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>

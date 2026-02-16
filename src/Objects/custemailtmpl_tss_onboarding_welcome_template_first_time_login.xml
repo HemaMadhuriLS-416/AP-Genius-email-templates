@@ -1,0 +1,12 @@
+<emailtemplate scriptid="custemailtmpl_tss_onboarding_welcome_template_first_time_login">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description></description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <mediaitem></mediaitem>
+  <name>TSS Welcome template for First Time Login</name>
+  <recordtype>ENTITY</recordtype>
+  <subject>[clientName-AP Genius]: ACTION REQUIRED - Welcome to AP Genius Vendor Portal.</subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>

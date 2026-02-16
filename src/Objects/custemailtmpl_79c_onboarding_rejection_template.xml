@@ -1,0 +1,12 @@
+<emailtemplate scriptid="custemailtmpl_79c_onboarding_rejection_template">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description>This is used for sending an rejection email to vendor with corresponding approver comments.</description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <mediaitem></mediaitem>
+  <name>TSS Onboarding Rejection Template</name>
+  <recordtype>CUSTOM</recordtype>
+  <subject>[clientName-AP Genius]: NOTIFICATION - Vendor Onboarding Status Update.</subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>

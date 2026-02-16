@@ -1,0 +1,12 @@
+<emailtemplate scriptid="custemailtmpl_79c_id_onboarding_welcome_template">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description>When the vendor gets the access to the portal, this template will be used for sending out an email to vendor regarding login details.</description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <mediaitem></mediaitem>
+  <name>TSS Onboarding Welcome Template</name>
+  <recordtype>ENTITY</recordtype>
+  <subject>[clientName-AP Genius]: ACTION REQUIRED - Welcome to AP Genius Vendor Portal.</subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>

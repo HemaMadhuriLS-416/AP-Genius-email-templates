@@ -1,0 +1,12 @@
+<emailtemplate scriptid="custemailtmpl_tss_help_desk_inquiry_email">
+  <addcompanyaddress>T</addcompanyaddress>
+  <addunsubscribelink>T</addunsubscribelink>
+  <description></description>
+  <isinactive>F</isinactive>
+  <isprivate>F</isprivate>
+  <mediaitem></mediaitem>
+  <name>Help Desk Inquiry Email Template</name>
+  <recordtype></recordtype>
+  <subject>[clientName-AP Genius]: ACTION REQUIRED - New Helpdesk Issue Assigned.</subject>
+  <usesmedia>F</usesmedia>
+</emailtemplate>
